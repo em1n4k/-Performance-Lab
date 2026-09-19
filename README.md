@@ -1,7 +1,8 @@
 # Задание НТ Performance Lab
 Решения четырёх задач тестового задания Performance Lab на Java
 ---
-Язык: Java. Для запуска требуется JDK 21/JDK 24.
+**Автор:** Аббасов Эмин
+**Язык:** Java. Для запуска требуется JDK 21/JDK 24.
 
 ## Задание 1
 
@@ -18,7 +19,7 @@ java task1/src/task1.java 6 3 5 4
 1. Путь к файлу с центром и полуосями эллипса
 2. Путь к файлу с координатами точек
 
-**Прописываем в Terminal в IDE**:
+**Прописываем в Terminal в IDE:**
 
 ```shell
 java task2/src/task2.java task2/ellipse.txt task2/points.txt
@@ -35,7 +36,7 @@ java task2/src/task2.java task2/ellipse.txt task2/points.txt
 2. Путь к файлу со структурой отчёта — tests.json
 3. Путь для сохранения отчёта — report.json
 
-**Прописываем в Terminal в IDE**:
+**Прописываем в Terminal в IDE:**
 
 ```shell
 java -cp "lib/gson-2.14.0.jar" task3/src/task3.java task3/values.json task3/tests.json task3/report.json
@@ -48,7 +49,7 @@ java -cp "lib/gson-2.14.0.jar" task3/src/task3.java task3/values.json task3/test
 
 Аргумент: путь к файлу с целыми числами
 
-**Прописываем в Terminal в IDE**:
+**Прописываем в Terminal в IDE:**
 
 ```shell
 java task4/src/task4.java task4/numbers.txt
