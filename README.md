@@ -53,8 +53,3 @@ java -cp "lib/gson-2.14.0.jar" task3/src/task3.java task3/values.json task3/test
 ```shell
 java task4/src/task4.java task4/numbers.txt
 ```
-
-## Кодировка
-
-Исходники и JSON-файлы — UTF-8. Десятичные дроби
-в файлах второй задачи записываются через точку
