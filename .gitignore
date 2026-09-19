@@ -31,3 +31,6 @@ bin/
 .idea/
 *.iml
 *.class
+
+/task3/report.json
+/task3/report-check.json
